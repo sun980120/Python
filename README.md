@@ -9,7 +9,10 @@
 ### 진행사항
 |      Algorithm       | Bronze | Silver | Gold | Platinum
 |:---------------------:|:---:|:---:|:-----:|:-------------------:|
+| <b>Dynamic Programming</b> |  1  |  1  |   -   |          -          |
 | <b>Greedy</b> |  8  |  2  |   -   |          -          |
+
+> Greedy 의 설탕 배달은 Dynamic Programming 입니다.
 
 ### 공부기간 : `2022.03.18 ~
 > Vscode로 Python을 사용할수 있게 설정하였다.
