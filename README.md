@@ -4,7 +4,7 @@
 > Python
 
 ### 계획
-<p> 1일 1commit 하기 !!!</p>
+<p> 1일 1 commit 최대한  !!!</p>
 
 ### 진행사항
 |      Algorithm       | Bronze | Silver | Gold | Platinum
