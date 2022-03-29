@@ -10,4 +10,4 @@ for i in range(2,X+1):
         data[i] = min(data[i],data[i//2]+1)
     else :
         data[i] = min(data[i],data[i-1]+1)
-print(data[X])
+print(data[X]);
