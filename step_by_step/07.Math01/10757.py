@@ -1,4 +1,4 @@
-# 큰 수 A=B
+# 큰 수 A+B
 import sys;
 input = sys.stdin.readline;
 
