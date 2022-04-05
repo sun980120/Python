@@ -10,7 +10,7 @@
 |      Algorithm       | Bronze | Silver | Gold | Platinum
 |:---------------------:|:---:|:---:|:-----:|:-------------------:|
 | <b>Dynamic Programming</b> |  1  |  2  |   -   |          -          |
-| <b>Greedy</b> |  -  |  1  |   -   |          -          |
+| <b>Data_Structures</b> |  -  |  1  |   -   |          -          |
 | <b>Greedy</b> |  8  |  2  |   -   |          -          |
 
 > Greedy 의 설탕 배달은 Dynamic Programming 입니다.
