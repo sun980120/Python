@@ -1,4 +1,5 @@
 # 통계학
+
 import sys
 import math
 from collections import Counter
@@ -19,7 +20,8 @@ for i in range(len(cnt)):
     if max_mode == mode[i][1]:
         max_cnt += 1;
     
-print(math.ceil(sum(data_list)/n))
+# print(math.ceil(sum(data_list)/n))
+print(round(sum(data_list)/n))
 print(data_list[n//2])
 if max_cnt>1:
     print(mode[1][0])
