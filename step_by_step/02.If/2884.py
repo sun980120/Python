@@ -9,5 +9,4 @@ if b-45<0:
 else:
     b=b-45;
     
-print(a,end=' ')
-print(b)
+print(a,b)

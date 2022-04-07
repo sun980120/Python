@@ -4,6 +4,7 @@ import math
 n = int(input())
 m = n
 cnt = int(0)
+
 while True:
     a = m // 10
     b = m % 10
@@ -12,4 +13,5 @@ while True:
     cnt = cnt + 1
     if m == n:
         break;
+    
 print(cnt)

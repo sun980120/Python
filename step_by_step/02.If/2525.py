@@ -9,5 +9,4 @@ if int(b/60)>0:
     b = b - (60*imsi)
     if a>=24:
         a = a % 24;
-print(int(a),end=' ')
-print(int(b))
+print(int(a),int(b))
