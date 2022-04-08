@@ -6,17 +6,25 @@
 ### 계획
 <p> 1일 1 commit 최대한  !!!</p>
 
-### 진행사항
-|      Algorithm       | Bronze | Silver | Gold | Platinum
-|:---------------------:|:---:|:---:|:-----:|:-------------------:|
-| <b>Dynamic Programming</b> |  1  |  2  |   -   |          -          |
-| <b>Data_Structures</b> |  -  |  1  |   -   |          -          |
-| <b>Greedy</b> |  8  |  2  |   -   |          -          |
-
-> Greedy 의 설탕 배달은 Dynamic Programming 입니다.
-
 ### 공부기간 : `2022.03.18 ~
 > Vscode로 Python을 사용할수 있게 설정하였다.
+> 현재는 단계별 진행사항 부터 문제 해결 하고 있습니다.
+
+### 알고르즘별 진행사항
+|      Algorithm       | Bronze | Silver | Gold | Platinum
+|:---------------------:|:---:|:---:|:-----:|:-------------------:|
+| <b>Mathematics</b> |  39  |  2  |   -   |          -          |
+| <b>Implementation</b> |  48  |  3  |   -   |          -          |
+| <b>Dynamic Programming</b> |  1  |  1  |   -   |          -          |
+| <b>Data_Structures</b> |  -  |  8  |   -   |          -          |
+| <b>String</b> |  6  |  4  |   -   |          -          |
+| <b>Greedy</b> |  7  |  2  |   -   |          -          |
+| <b>Sorting</b> |  1  |  8  |   -   |          -          |
+| <b>Geometry</b> |  1  |  -  |   -   |          -          |
+| <b>Arithmetic</b> |  28  |  -  |   -   |          -          |
+
+> 알고르즘별 문제는 중복 O
+> 현재 진행 X
 
 ### 단계별 진행사항
 
@@ -35,3 +43,5 @@
 | 15 | <b>그리디 알고리즘</b> |  5  |  1  |
 | 17 | <b>스택</b> |  6  |  5  |
 | 18 | <b>큐, 덱</b> |  7  |  3  |
+
+> 현재 진행 O
