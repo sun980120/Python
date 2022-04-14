@@ -1,4 +1,4 @@
-# 베르트랑 공주
+# 베르트랑 공준
 import sys
 input = sys.stdin.readline
 
