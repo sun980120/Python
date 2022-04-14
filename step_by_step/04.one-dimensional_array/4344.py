@@ -5,7 +5,6 @@ for i in range(n):
     count = 0
     avg_sum = 0
     m_list = list(map(int,input().split()))
-#     print(m_list[0])
     for j in range(1,m_list[0]+1):
         result += m_list[j]
     result = result / m_list[0]

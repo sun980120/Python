@@ -11,4 +11,3 @@ for i in range(T):
         for k in range(1,K):
             data[k]+=data[k-1]
     print(data[-1])
-
