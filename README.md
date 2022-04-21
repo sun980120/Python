@@ -2,7 +2,7 @@
 ====================================
 ### 백준
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun980120)](https://solved.ac/sun980120)</br><img src="http://mazandi.herokuapp.com/api?handle=sun980120&theme=warm"/>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun980120)](https://solved.ac/sun980120)&nbsp;&nbsp;&nbsp;<img src="http://mazandi.herokuapp.com/api?handle=sun980120&theme=warm"/>
  
 ### 사용된 언어
 > Python
