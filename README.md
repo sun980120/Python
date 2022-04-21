@@ -1,5 +1,9 @@
 ### 백준 알고리즘 문제 풀기
 ====================================
+### 백준 티어
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun980120)](https://solved.ac/sun980120)
+
 ### 사용된 언어
 > Python
 
