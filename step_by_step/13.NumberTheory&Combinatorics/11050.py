@@ -4,5 +4,4 @@ input = sys.stdin.readline;
 import math
 
 n,k = map(int,input().split())
-data = math.comb(n,k)%10007
-print(data, end='')
+print(math.comb(n,k), end='')
